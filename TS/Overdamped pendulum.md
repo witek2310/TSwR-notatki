@@ -9,7 +9,7 @@ $$ b\ddot{\theta} + mgl\sin\theta = u $$
 wyznaczając $\dot{x}$ otrzymujemy:
 $$ \dot{\theta} = \frac{1}{b}(u - mgl\sin\theta) $$
 
-Na postawie tego możemy narysować obraz fazowy wahadła:
+Na postawie tego możemy narysować:
 ![[obraz_fazowy_wahadla_overdumped.excalidraw]]
 
 - strzałki pokazują kierunek ewolucji układu

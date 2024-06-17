@@ -2,7 +2,7 @@ Mając dane [[Wahadło#Równanie dynamiki wahadła|równanie dynamiki wahadła]]
 
 $$\dot{x} = \begin{bmatrix}
 \dot{\theta} \\
-\frac{1}{ml^2(u-b\dot{\theta-mgl\sin\theta})}
+\frac{1}{ml^2}(u-b\dot{\theta}-mgl\sin\theta)
 \end{bmatrix}$$
 
 policzmy A i B dla dyskretnych równań:

@@ -14,7 +14,7 @@ $$\frac{d}{dt}(\frac{\partial \mathcal{L}}{\partial \dot{q}}) - \frac{\partial \
 po policzeniu otrzymamy:
 $$ ml^2 \ddot{\theta} + mgl\sin\theta = Q = \tau - b\dot{\theta} $$
 ##### Równanie dynamiki wahadła
-$$ ml^2 + b\dot{\theta} + mgl\sin\theta = u$$
+$$ ml^2\ddot{\theta} + b\dot{\theta} + mgl\sin\theta = u$$
 
 ### Obraz fazowy:
 zakładając:
@@ -25,8 +25,9 @@ $$x = \begin{bmatrix}
 zapisując równania wahadła w ten sposób:
 $$\dot{x} = \begin{bmatrix}
 \dot{\theta} \\
-\frac{1}{ml^2(u-b\dot{\theta-mgl\sin\theta})}
+\frac{1}{ml^2}(u-b\dot{\theta}-mgl\sin\theta)
 \end{bmatrix}$$
+i zakładając, że b=0, u =0 można narysować obraz fazowy
 ![[pend_undamped_phase.svg]]
 
 

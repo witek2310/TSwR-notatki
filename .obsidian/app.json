@@ -1,5 +1,6 @@
 {
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "livePreview": false
 }

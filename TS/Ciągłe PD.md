@@ -1,6 +1,6 @@
 ### porównanie z [[Programowanie dynamiczne| programowanie dynamiczne]]
 - ciągłą dynamika, stan, czas
-	$$\dot{x} = f(x,u)$$
+	$$\dot{x} = f_c(x,u)$$
 - koszt całkowity
 	$$ l=\int_0^\infty l_c(x(t), u(t))dt $$
 - Odpowiednik $J^*(s_0)$

@@ -4,7 +4,7 @@ $$ \underset{\epsilon >0}{\forall} \enspace \underset{\delta>0}{\exists} \enspac
 ![[lapunov.png]]
 Dla każdego punktu w hiperkuli o promieniu $\delta$ to wiemy, że dla dowolnego czasu nie oddalimy się od tego punktu o więcej niż $\epsilon$
 
-#### Jak sprawdzić?
+#### Warunki na V(x)
 Żeby punku był w stabilny w sensie lapunova musi istnieć funkcja V(x), która spełnia warunki:
 
 ###### Funkcja musi być dodatnio określona:

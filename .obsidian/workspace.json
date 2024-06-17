@@ -4,146 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "91599ce7fb57fe0b",
+        "id": "c6fbc2dbe3b9dcb4",
         "type": "tabs",
         "children": [
           {
-            "id": "d008a6d779b37d14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/Wykład 8.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fb8d73ef7834aac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/START.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4fce61987f9a954",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/Wykład 9.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6ce1ce4c5614868",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/START.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ee5cb15746270a53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/Wykład 10.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57b547951f36d62b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "TS/utils/pend_undamped_phase.svg"
-              }
-            }
-          },
-          {
-            "id": "7285d6119b481ef5",
+            "id": "05da36861179819c",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "d6363548bf21789f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/PD a lapunov.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a7f077c59079ae9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/Rodzaje stabilności.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b75014dab8877c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/stabilność w sensie Lapunova.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "04b03efad01878f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/losowanie x i u.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TS/utils/pend_undamped_phase.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TS/utils/pend_undamped_phase.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TS/utils/pend_undamped_phase.svg"
-              }
+              "state": {}
             }
           }
         ]
@@ -271,40 +139,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "57b547951f36d62b",
+  "active": "67a48b3e46e12432",
   "lastOpenFiles": [
-    "TS/utils/Teoria sterowania w robotyce wykład _240615_114345.pdf",
-    "TS/Approximate PD.md",
-    "TS/HJB podwójny integrator przykład.md",
+    "TS/przybliżanie f. Lapunova funkcją kwadratową.md",
+    "TS/Wykład 10.md",
+    "TS/optymalizacja.md",
+    "TS/przybliżanie f. Lapunova funkcją kwadratową przykład.md",
+    "TS/Minimum time problem.md",
+    "TS/Wykład 3.md",
+    "TS/LQR.md",
+    "TS/Wykład 9.md",
+    "TS/Wykład 8.md",
+    "Bez nazwy.canvas",
+    "TS/Wykład 6.md",
+    "TS/Linearyzacja wahadła.md",
+    "TS/stabilność w sensie Lapunova.md",
+    "TS/przybliżanie f. Lapunova funkcją liniową.md",
+    "TS/Wahadło.md",
+    "TS/Overdamped pendulum.md",
+    "TS/START.md",
+    "TS/TEST.md",
+    "Xd/siema.md",
+    "Xd",
+    "Test/siema.md",
+    "Test",
+    "TS/funkcje bazowe.md",
+    "TS/PD a lapunov.md",
     "TS/Ciągłe PD.md",
+    "TS/wielowymiarowość.md",
+    "TS/sterowalności.md",
+    "TS/Stabilność wykładnicza.md",
+    "TS/Stabilność asymptotyczna.md",
     "TS/utils/pend_undamped_phase.svg",
+    "TS/utils/Teoria sterowania w robotyce wykład _240615_114345.pdf",
     "TS/utils/losowe x i u.png",
     "TS/utils/lokalnie optymalizujący.png",
     "TS/utils/linearized pendulum.png",
     "TS/utils/K_Q_R_stabilizowalny.png",
-    "Bez nazwy.canvas",
-    "TS/Lapunov wahadło.md",
-    "TS/optymalizacja.md",
-    "TS/Overdamped pendulum.md",
-    "TS/Rodzaje stabilności.md",
-    "TS/Sposoby znajdywania funkcji Lapunova.md",
-    "TS/stabilizowalność.md",
-    "TS/Stabilność asymptotyczna.md",
-    "TS/losowanie x i u.md",
-    "TS/Rodzaje systemów.md",
-    "TS/LQR vs neuronowa aproksymacja LQR.md",
-    "TS/sterowalności.md",
-    "TS/Stabilność wykładnicza.md",
-    "TS/stabilność w sensie Lapunova.md",
-    "TS/Wykład 2.md",
-    "TS/Wahadło.md",
-    "TS/Wykład 1.md",
-    "TS/Linearyzacja wahadła.md",
-    "TS/LQR c.d..md",
-    "TS/Niedosterowanie.md",
-    "TS/Wykład 10.md",
-    "TS/PD a lapunov.md",
-    "TS/Wykład 6.md",
     "TS/utils/lapunov.png",
     "TS/utils/losowe x i optymalne u.png",
     "TS/utils/minimum time problem.png",
@@ -316,7 +187,6 @@
     "TS/utils/sterowania_sieci.jpg.crdownload",
     "TS/utils/Układ_regulacji.png.crdownload",
     "TS/utils",
-    "TS/Nowy folder",
-    "TS"
+    "TS/Nowy folder"
   ]
 }

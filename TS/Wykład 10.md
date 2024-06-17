@@ -1,1 +1,3 @@
--[[optymalizacja]]
+- [[optymalizacja]]
+- [[przybliżanie f. Lapunova funkcją liniową]]
+- [[przybliżanie f. Lapunova funkcją kwadratową]]
