@@ -1,0 +1,3 @@
+- [[LQR]]
+- [[Linearyzacja wahadła | Sprawdzenie linearyzacji wahadła]]
+-

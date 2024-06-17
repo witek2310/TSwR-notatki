@@ -1,0 +1,1 @@
+więcej stopni swobody to więcej możliwości sterowania i trudno jest przeszukać je wszystkie, żeby znaleźć to najlepsze (naiwne podejście).

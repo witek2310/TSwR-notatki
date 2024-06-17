@@ -1,0 +1,2 @@
+$\underset{x_a, x_b \in X}{\forall}\ \underset{u(t)\ dla[t_s, t_f]}{\exists}$ które sprawia, że $x(t_f)=x_b$ i $x(t_s)=x_a$ w SKOŃCZONYM CZASIE
+to znaczy, że musimy być w stanie osiągnąć dowolny stan w skończonym czasie

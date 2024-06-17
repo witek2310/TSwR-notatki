@@ -1,0 +1,4 @@
+- [[Sterownik]]
+- [[Rodzaje systemów]]
+- [[Niedosterowanie]]
+- [[Feedback linearization]]
