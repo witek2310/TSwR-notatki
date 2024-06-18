@@ -45,4 +45,4 @@ kolejno można narysować obraz fazowy:
 ![[linearized pendulum.png]]
 czarne to zlinearyzowane wahadło, a fioletowe to zwykłe
 WNIOSEK:
-w okolicy $\theta = 0$ wykresy są podobne, czyli linearyzacja dobrze oddaje dynamikę wahadła. Im dalej, tym przybliżenie jest gorsze.
+w okolicy $\theta = \pi$ wykresy są podobne, czyli linearyzacja dobrze oddaje dynamikę wahadła. Im dalej, tym przybliżenie jest gorsze.

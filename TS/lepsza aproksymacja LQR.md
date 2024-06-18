@@ -20,8 +20,8 @@ Czyli wykorzystujemy [[losowanie x i u#Sposób 2|losowe x i optymalne u]]
 ###### Systemy dyskretne:
 $J^d$ możemy liczyć troszkę lepiej tzn. zamiast licząc je normalnie można rozpisać jednokrokowy koszt na dwie składowe:
 $$ l(x,u) = l_x(x) + u^TRu $$
-czyli składową związaną ze stanem oraz ze sterowaniem. Co pozwoli zapisać $J^d$ jako:
- $$ J_i^d = \underset{j}{min}[u^TRu + \hat{J_\alpha}(f(x,u))] $$
+czyli składową związaną ze stanem oraz ze sterowaniem. Co pozwoli pominąć składową związaną ze stanem i zapisać $J^d$ jako:
+ $$ J_i^d = \underset{u}{min}[u^TRu + \hat{J_i}(f(x,u))] $$
 
 ###### Systemy ciągłe:
 Tutaj można zrobić więcej:

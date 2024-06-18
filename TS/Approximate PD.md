@@ -16,16 +16,16 @@ $$ \underset{i,j}{\forall} \ l_{ij} = l(x_i, u_j) $$
  czyli dla każdego ze wylosowanych stanów wybieramy najlepszą akcję 
  
  #### Step 2
- $$ \underset{\alpha}{argmin} \sum_i [\hat{J_\alpha}(x_1) - J^d_i]^2 $$
+ $$ \underset{\alpha}{argmin} \sum_i [\hat{J_\alpha}(x_i) - J^d_i]^2 $$
 
 szukamy takich $\alpha$ że $J_\alpha$  będzie jak najbliższy temu co wyszło z obliczenia kosztów
 
 I wykonujemy krok 1 i 2 naprzemiennie
 #### Można połączyć te dwa kroki w jeden
- $$ \underset{\alpha}{argmin} \sum_i [\hat{J_\alpha}(x_1) - \underset{j}{min}[l_{ij} + \hat{J_\alpha}(x_{ij}')]]^2 $$
+ $$ \underset{\alpha}{argmin} \sum_i [\hat{J_\alpha}(x_i) - \underset{j}{min}[l_{ij} + \hat{J_\alpha}(x_{ij}')]]^2 $$
 Problem jest taki, że to nie musi być stabilne.
 Rozwiązanie:
- $$ \underset{\alpha}{argmin} \sum_i [\hat{J_\alpha}(x_1) - \underset{j}{min}[l_{ij} + \hat{J_\beta}(x_{ij}')]]^2 $$
+ $$ \underset{\alpha}{argmin} \sum_i [\hat{J_\alpha}(x_i) - \underset{j}{min}[l_{ij} + \hat{J_\beta}(x_{ij}')]]^2 $$
  gdzie 
  $J_\beta$ to target network
  $\beta=LPF(\alpha)$             
