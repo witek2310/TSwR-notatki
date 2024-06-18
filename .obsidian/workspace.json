@@ -11,8 +11,13 @@
             "id": "05da36861179819c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TS/START.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TS/START.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TS/START.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TS/START.md"
+              }
             }
           }
         ]
@@ -139,37 +148,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "67a48b3e46e12432",
+  "active": "05da36861179819c",
   "lastOpenFiles": [
-    "TS/przybliżanie f. Lapunova funkcją kwadratową.md",
     "TS/Wykład 10.md",
     "TS/optymalizacja.md",
-    "TS/przybliżanie f. Lapunova funkcją kwadratową przykład.md",
-    "TS/Minimum time problem.md",
-    "TS/Wykład 3.md",
-    "TS/LQR.md",
+    "TS/START.md",
     "TS/Wykład 9.md",
+    "TS/Energy shaping.md",
+    "TS/PD a lapunov.md",
+    "TS/Sposoby znajdywania funkcji Lapunova.md",
+    "TS/Rodzaje stabilności.md",
     "TS/Wykład 8.md",
-    "Bez nazwy.canvas",
+    "TS/stabilność w sensie Lapunova.md",
+    "TS/LQR vs neuronowa aproksymacja LQR.md",
+    "TS/Wykład 7.md",
+    "TS/Approximate PD.md",
+    "TS/lepsza aproksymacja LQR.md",
+    "TS/LQR c.d..md",
     "TS/Wykład 6.md",
     "TS/Linearyzacja wahadła.md",
-    "TS/stabilność w sensie Lapunova.md",
-    "TS/przybliżanie f. Lapunova funkcją liniową.md",
-    "TS/Wahadło.md",
-    "TS/Overdamped pendulum.md",
-    "TS/START.md",
-    "TS/TEST.md",
-    "Xd/siema.md",
-    "Xd",
-    "Test/siema.md",
-    "Test",
-    "TS/funkcje bazowe.md",
-    "TS/PD a lapunov.md",
+    "TS/LQR.md",
+    "TS/Wykład 5.md",
     "TS/Ciągłe PD.md",
-    "TS/wielowymiarowość.md",
-    "TS/sterowalności.md",
-    "TS/Stabilność wykładnicza.md",
-    "TS/Stabilność asymptotyczna.md",
+    "TS/HJB podwójny integrator przykład.md",
+    "TS/Wykład 4.md",
+    "TS/Programowanie dynamiczne.md",
+    "TS/Wykład 3.md",
+    "TS/Minimum time problem.md",
+    "TS/Wahadło.md",
+    "Bez nazwy.canvas",
+    "Xd",
+    "Test",
     "TS/utils/pend_undamped_phase.svg",
     "TS/utils/Teoria sterowania w robotyce wykład _240615_114345.pdf",
     "TS/utils/losowe x i u.png",

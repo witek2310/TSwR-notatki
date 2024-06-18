@@ -20,6 +20,7 @@ $$ 2u^TR + 2x^TSB = 0 $$
 $$ u^TR = -x^TSB $$
 $$ u^T = -x^TSBR^{-1} $$
 $$ u^* = -R^{-1}B^TSx$$
+$$ u^*=-kx $$
 sprawdźmy czy to na pewno jest optymalne podstawiając do równania HJB:
 $$ 0=x^TQx + (R^{-1}B^TSx)^TRR^{-1}B^TSx + 2x^TS(Ax-BR^{-1}B^TSx) $$
 $$ 0=x^T(\underbrace{Q + SBR^{-1}B^TS + 2SA - 2SBR^{-1}B^TS}_{=0})x $$

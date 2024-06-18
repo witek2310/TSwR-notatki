@@ -19,7 +19,7 @@ założenia:
 - m=1
 - l=1
 - b= 0
-- q= 10
+- g= 10
 
 
 dla $\theta = \pi$

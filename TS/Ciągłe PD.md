@@ -1,10 +1,10 @@
 ### porównanie z [[Programowanie dynamiczne| programowanie dynamiczne]]
-- ciągłą dynamika, stan, czas
+- ciągła dynamika, stan, czas
 	$$\dot{x} = f_c(x,u)$$
 - koszt całkowity
 	$$ l=\int_0^\infty l_c(x(t), u(t))dt $$
 - Odpowiednik $J^*(s_0)$
-	$$ 0 = \underset{u}{min}[l_c(x,u) + \frac{\partial J^*}{\partial X} f_c(x,u)] $$
+	$$ 0 = \underset{u}{min}[l_c(x,u) + \frac{\partial J^*}{\partial x} f_c(x,u)] $$
 
 ### Równanie HJB
 równie HJB  czyli równanie Hamiltona-Jakobiego-Bellmana to równanie postaci:
@@ -27,7 +27,7 @@ funkcja kosztu:
 
 $$ J^*(x[n+1]) = J^*(x[n]) - l_d(x,u) $$
 
-koszt kolejnego stanu jest równy aktualnemu kosztowi to go minus koszt przebywania w aktualnym stanie
+koszt kolejnego stanu jest równy aktualnemu cost-to-go minus koszt przebywania w aktualnym stanie
 
 podstawiając ciągłą funkcje kosztu:
 $$ J^*(x[n+1]) \approx J^*(x[n]) - h\cdot l_c(x,u) $$

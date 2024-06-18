@@ -26,7 +26,7 @@ czyli składową związaną ze stanem oraz ze sterowaniem. Co pozwoli zapisać $
 ###### Systemy ciągłe:
 Tutaj można zrobić więcej:
 - można zastosować rozbicie koszy na dwie składowe
-- dla systemów afinicznych można robić obiekt na dwie składowe:
+- dla systemów afinicznych można rozbić obiekt na dwie składowe:
 	$$ f(x,u) = f_1(x) + f_2(x) \cdot u $$
 - pochodna $\frac{\partial \hat{J_\alpha}}{\partial x}$ łatwo się liczy
 - można też policzyć optymalne u:

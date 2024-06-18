@@ -9,8 +9,8 @@ Czyli wykorzystujemy [[losowanie x i u#Sposób 1.| losowe x i u]]
 
 $J_\alpha$ to aktualnie najlepsza funkcja kosztu
 #### Step 1
-$$ \underset{i,j}{\forall} x_{ij}' = f(x_i, u_j) $$
-$$ \underset{i,j}{\forall} l_{ij} = l(x_i, u_j) $$
+$$ \underset{i,j}{\forall} \ x_{ij}' = f(x_i, u_j) $$
+$$ \underset{i,j}{\forall} \ l_{ij} = l(x_i, u_j) $$
  i liczymy:
  $$ J_i^d = \underset{j}{min}[l_{ij} + \hat{J_\alpha}(x_{ij}')] $$
  czyli dla każdego ze wylosowanych stanów wybieramy najlepszą akcję 

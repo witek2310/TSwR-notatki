@@ -8,7 +8,7 @@ $$ V(x) = \frac{1}{2}\tilde{E}(x)^2 $$
 $$ \dot{\tilde{E}}=\dot{E} $$
 $$ \dot{E} = \frac{\partial E}{\partial x}\dot{x}= \frac{\partial E}{\partial \theta}\dot{\theta} + \frac{\partial E}{\partial \dot{\theta}}\ddot{\theta} = \dot{\theta}mgl\sin\theta + ml^2 \dot{\theta}\ddot{\theta} = \dot{\theta}u $$
 $$ \dot{V}(x) = \dot{\tilde{E}} = \dot{E} $$
-Jak dobrać u, żeby $\dot{V}<0$
+Jak dobrać u, żeby $\dot{V}<0$ ?
 $$ u = -k\dot{\theta}\tilde{E}^2 $$
 Sprawdzenie:
 $$ \dot{V}(x)=\dot{\theta}(-k\dot{\theta}\tilde{E}^2 )= -k\dot{\theta}^2\tilde{E}^2  $$

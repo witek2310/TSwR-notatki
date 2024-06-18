@@ -23,7 +23,7 @@ $$ \Pi(s) = \underset{a}{argmin}[l(s_0[i], a_o[i]) + J^*(f(s_0, a_0))] $$
 ### Algorytm
 Value iteration
 1. Zaczynamy z jakimś J
-3. dla każdego stanu znajdujemy politykę (sterowanie) dla którego funkcja kosztu jest najmniejsza$$ \underset{s}{\forall} J(s) := \underset{a_0}{min}[l(s_0[i], a_o[i]) + J(f(s_0, a_0))] $$
+3. dla każdego stanu znajdujemy politykę (sterowanie) dla którego funkcja kosztu jest najmniejsza$$ \underset{s}{\forall} \ J(s) := \underset{a_0}{min}[l(s_0[i], a_o[i]) + J(f(s_0, a_0))] $$
 4. Obserwuj jak z $J\rightarrow J^*+C$
 
 
