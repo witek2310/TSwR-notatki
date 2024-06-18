@@ -14,5 +14,5 @@ Sprawdzenie:
 $$ \dot{V}(x)=\dot{\theta}(-k\dot{\theta}\tilde{E}^2 )= -k\dot{\theta}^2\tilde{E}^2  $$
 czyli wybierając taki sterownik, system jest stabilny [[stabilność w sensie Lapunova| i.s.L.]]
 co więcej można zapisać:
-$$ \dot{V}(x) = -k2\dot{\theta}\underbrace{\frac{1}{2}\tilde{E}^2}_{V(x)} $$
+$$ \dot{V}(x) = -k2\dot{\theta}^2\underbrace{\frac{1}{2}\tilde{E}^2}_{V(x)} $$
 czyli układ jest [[Stabilność wykładnicza| stabilny wykładniczo]]

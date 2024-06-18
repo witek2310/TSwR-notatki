@@ -22,7 +22,7 @@ Dlaczego takie wartości?
 Bo chcemy żeby obydwa koszty były w podobnej skali. 
 Czyli:
 możemy rozpisać funkcje kosztu:
-$$ L = 10\theta + 1\dot{\theta} + u^2 $$
+$$ L = 10\theta^2 + 1\dot{\theta}^2 + u^2 $$
 dla wahadła bez tłumienia można zapisać:
 $$\omega = \sqrt{\frac{g}{l}}\approx \sqrt{10}$$
 $$ q= \sin(\omega t) $$

@@ -8,7 +8,7 @@
 
 ### Równanie HJB
 równie HJB  czyli równanie Hamiltona-Jakobiego-Bellmana to równanie postaci:
-$$ 0=  \underset{u}{min}[l_c(x[n] +\frac{\partial J^*}{\partial x} f_c(x,u)]$$
+$$ 0=  \underset{u}{min}[l_c(x[n], u[n]) +\frac{\partial J^*}{\partial x} f_c(x,u)]$$
 
 
 ##### wyprowadzenie
@@ -43,7 +43,7 @@ $$ J^*(x[n]) = \underset{u}{min}[h\cdot l_c(x[n], u[n]) + J^*(x[n+1])]$$
 $$ J^*(x[n]) = \underset{u}{min}[h\cdot l_c(x[n], u[n]) + J^*(x[n])] +h\cdot \frac{\partial J^*}{\partial x} f_c(x,u)]$$
 
 Jako, że $J^*(x[n])$ nie zależy od u, można je wystawić przed min i skrócić, jednocześnie ze środka min można wyłączyć h i obustronnie przez nie podzielić:
-$$ 0=  \underset{u}{min}[l_c(x[n] +\frac{\partial J^*}{\partial x} f_c(x,u)]$$
+$$ 0=  \underset{u}{min}[l_c(x[n], u[n]) +\frac{\partial J^*}{\partial x} f_c(x,u)]$$
 otrzymujemy równanie HJB
 
 #### Przykład

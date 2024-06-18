@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TS/lepsza aproksymacja LQR.md",
+                "file": "TS/przybliżanie f. Lapunova funkcją kwadratową przykład.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "oraz ze ster",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +93,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TS/lepsza aproksymacja LQR.md",
+                "file": "TS/przybliżanie f. Lapunova funkcją kwadratową przykład.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TS/lepsza aproksymacja LQR.md",
+                "file": "TS/przybliżanie f. Lapunova funkcją kwadratową przykład.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TS/lepsza aproksymacja LQR.md"
+                "file": "TS/przybliżanie f. Lapunova funkcją kwadratową przykład.md"
               }
             }
           }
@@ -178,32 +177,32 @@
   },
   "active": "7702b8011e215a86",
   "lastOpenFiles": [
-    "TS/Approximate PD.md",
-    "TS/losowanie x i u.md",
-    "TS/lepsza aproksymacja LQR.md",
-    "TS/Lapunov wahadło.md",
-    "TS/stabilność w sensie Lapunova.md",
-    "TS/Wahadło.md",
+    "TS/przybliżanie f. Lapunova funkcją kwadratową.md",
+    "TS/przybliżanie f. Lapunova funkcją kwadratową przykład.md",
+    "TS/przybliżanie f. Lapunova funkcją liniową.md",
+    "TS/Ciągłe PD.md",
+    "TS/Lokalne przyciąganie.md",
+    "TS/Rodzaje stabilności.md",
     "TS/Energy shaping.md",
+    "TS/Sposoby znajdywania funkcji Lapunova.md",
+    "TS/lepsza aproksymacja LQR.md",
+    "TS/Approximate PD.md",
+    "TS/LQR.md",
+    "TS/Wykład 6.md",
+    "TS/LQR c.d..md",
+    "TS/Wykład 7.md",
+    "TS/Wahadło.md",
+    "TS/Overdamped pendulum.md",
+    "TS/Wykład 2.md",
+    "TS/Wykład 3.md",
+    "TS/Lapunov wahadło.md",
+    "TS/losowanie x i u.md",
+    "TS/stabilność w sensie Lapunova.md",
     "TS/Linearyzacja wahadła.md",
     "TS/START.md",
     "TS/Wykład 10.md",
     "TS/optymalizacja.md",
     "TS/Wykład 9.md",
-    "TS/PD a lapunov.md",
-    "TS/Sposoby znajdywania funkcji Lapunova.md",
-    "TS/Rodzaje stabilności.md",
-    "TS/Wykład 8.md",
-    "TS/LQR vs neuronowa aproksymacja LQR.md",
-    "TS/Wykład 7.md",
-    "TS/LQR c.d..md",
-    "TS/Wykład 6.md",
-    "TS/LQR.md",
-    "TS/Wykład 5.md",
-    "TS/Ciągłe PD.md",
-    "TS/HJB podwójny integrator przykład.md",
-    "TS/Wykład 4.md",
-    "TS/Programowanie dynamiczne.md",
     "Bez nazwy.canvas",
     "Xd",
     "Test",
